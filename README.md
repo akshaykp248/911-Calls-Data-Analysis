@@ -1,4 +1,4 @@
-# Crime-Data-Analysis
+# 911 Calss-Data-Analysis
 
 The primary focus of this project is to perform a thorough analysis of emergency 911 call records specifically from Montgomery County, PA. By leveraging the power of Python programming language and utilizing the capabilities of SQLite database, the project aims to extract valuable insights from the dataset.
 To achieve this, the project involves implementing various data analysis techniques and methodologies using Python. These techniques may include data cleaning, transformation, and exploration to ensure the accuracy and reliability of the dataset. Additionally, advanced data visualization libraries in Python, such as Matplotlib or Seaborn, will be employed to create visually appealing and informative representations of the analyzed data.
